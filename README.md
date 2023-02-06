@@ -14,6 +14,7 @@
 - [сплит-система (часть 2): проведение А/Б-теста значений CTR](split_system_project/AB_test.ipynb)
 - [сплит-система (часть 3): проведение А/Б-теста линеаризованных значений лайков](split_system_project/Linearized_likes_AB_test.ipynb)
 - [анализ данных из AppMetrica для приложения по доставке еды](AppMetrica_data_analysis.ipynb)
+- [система алертов на AirFlow для Telegram](Alert_system_for_telegram.py)
 
 ### Использованные технологии
 Основным языком программирования выступает Python3. Практически все проекты представляют из себя самостоятельные Jupyter-ноутбуки, однако могут встречаться стандартные Python-файлы в ".py" формате или папки с коллекцией взаимосвязанных Jupyter-ноутбуков.
@@ -26,5 +27,6 @@
 - seaborn
 - matplotlib
 - pandahouse
+- airflow
 - telegram-bot
 - tqdm
